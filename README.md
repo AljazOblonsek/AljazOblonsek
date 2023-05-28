@@ -12,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-2496ED?style=flat-square&logo=mui&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
