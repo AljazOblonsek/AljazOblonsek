@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<h3>🚀 Fullstack Developer | ReactJS, Typescript, Python, Flask | Devops 🚀</h3>
+<h3>🚀 Fullstack Web Developer | ReactJS, Typescript, Python, Flask | Devops 🚀</h3>
 
 <h5>🛠 Technologies & Tools</h5>
 
