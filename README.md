@@ -1,5 +1,5 @@
-<h1>Hi there! 👋</h1>
-<h3>🚀 Fullstack Web Developer | Typescript, NestJS, ReactJS 🚀</h3>
+<h1>Hey, I'm Aljaz 👋</h1>
+<h3>🚀 Software Engineer | Typescript, NestJS, ReactJS 🚀</h3>
 
 <h5>🛠 Technologies & Tools</h5>
 
